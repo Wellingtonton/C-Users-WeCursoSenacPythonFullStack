@@ -13,4 +13,3 @@ try:
 except ValueError: # Aqui acorre um erro, se o usuário não digitar um número inteiro válido. O códogo exibe uma
  # mensagem e não trava.  
     print("Por favor, digite um número inteiro válido.")
-

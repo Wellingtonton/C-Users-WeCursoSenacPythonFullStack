@@ -9,4 +9,3 @@ try: # Aqui começa um bloco de código, que pode gerar um erro! (O try é usado
  # usuário por cada valor de i        
 except ValueError: # Se a pessoa digitar algo inválido, o código não trava. E exibe uma mensagem de erro.
     print("Por favor, digite um número inteiro válido!")
-
